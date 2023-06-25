@@ -18,7 +18,6 @@ import { accountAPIs } from "../../api";
 const style = {
   textField: {
     mt: 1,
-    // mb: 2,
   },
 };
 
